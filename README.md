@@ -1,23 +1,23 @@
-# Quantitative-Finance
-Quantitative, Sentiment, and Financial analysis of the stock market utilizing the tidyquant library
+## Trading platform using Value Analysis, Markov Models, PCA, and Sentiment Analysis
 
-## FinanceHub.R
--Main script that calls functions from other files and displays them in a nice format.
+## Utilizing this platform I generated 80% ROI in 8 months
 
-## GraphStock.R
--A user friendly way to plot market and stock metrics.
+### FinanceHub.R
+  - Main script that calls functions from other files and displays them in a nice format.
 
-## ProbVolPrice.R
--Utilizes a Markov model to generate probabilities of a stock rising or falling based on previous volume and price movements.
+### GraphStock.R
+  - A user friendly way to plot market and stock metrics.
 
-## MarketPCA.R
--Uses Principle Component Analysis to determine which sectors are most important to the market based on the portion of variance of market price they contribute to.
+### ProbVolPrice.R
+  - Utilizes a Markov model to generate probabilities of a stock rising or falling based on previous volume and price movements.
 
-## ValueAnalysis.R
--Scans the whole stock market and utilizes classic Value Analysis techniques to pick companies that are selling at a bargain price.
+### MarketPCA.R
+  - Uses Principle Component Analysis to determine which sectors are most important to the market based on the portion of variance of market price they contribute to.
 
-## GetNews.R
--Scrapes Google Finance to get the most recent news stories to be analyzed as negative or positive.
--Looks for lawsuits and other occurrences that may lead to an overreaction by the public.
+### ValueAnalysis.R
+  - Scans the whole stock market and utilizes classic Value Analysis techniques to pick companies that are selling at a bargain price.
 
-Utilizing this platform I generated 80% ROI in 8 months
+### GetNews.R
+  - Scrapes Google Finance to get the most recent news stories to be analyzed as negative or positive.
+  - Looks for lawsuits and other occurrences that may lead to an overreaction by the public.
+
