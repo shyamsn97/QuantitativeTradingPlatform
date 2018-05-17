@@ -1,6 +1,6 @@
 ## Trading platform using Value Analysis, Markov Models, PCA, and Sentiment Analysis
 
-## Utilizing this platform I generated 80% ROI in 8 months
+## Utilizing this platform, I generated 80% ROI in 8 months
 
 ### FinanceHub.R
   - Main script that calls functions from other files and displays them in a nice format.
